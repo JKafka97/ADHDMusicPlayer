@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADHDMusicPlayer", "ADHDMusicPlayer\ADHDMusicPlayer.csproj", "{3D30CC6F-D03E-4D0D-894D-605548058FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D30CC6F-D03E-4D0D-894D-605548058FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D30CC6F-D03E-4D0D-894D-605548058FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D30CC6F-D03E-4D0D-894D-605548058FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D30CC6F-D03E-4D0D-894D-605548058FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F07A78-84D7-481C-AB0E-958B0C22FF65}
+	EndGlobalSection
+EndGlobal
