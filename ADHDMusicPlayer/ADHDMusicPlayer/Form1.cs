@@ -1,10 +1,15 @@
 namespace ADHDMusicPlayer
 {
-    public partial class Form1 : Form
+    public partial class ADHDMusicPlayer : Form
     {
-        public Form1()
+        public ADHDMusicPlayer()
         {
             InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
