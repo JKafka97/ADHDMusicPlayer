@@ -69,6 +69,7 @@
             this.SongsBox.Name = "SongsBox";
             this.SongsBox.Size = new System.Drawing.Size(197, 244);
             this.SongsBox.TabIndex = 1;
+            this.SongsBox.SelectedIndexChanged += new System.EventHandler(this.SongsBox_SelectedIndexChanged);
             // 
             // SongsSelect
             // 
@@ -81,6 +82,7 @@
             this.SongsSelect.TabIndex = 2;
             this.SongsSelect.Text = "select";
             this.SongsSelect.UseVisualStyleBackColor = false;
+            this.SongsSelect.Click += new System.EventHandler(this.SongsSelect_Click);
             // 
             // WindowsMediaPlayer
             // 
