@@ -1,0 +1,16 @@
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\bin\Debug\ADHDMusicPlayer.exe.config
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\bin\Debug\ADHDMusicPlayer.exe
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\bin\Debug\ADHDMusicPlayer.pdb
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.ADHDMusicPlayer.resources
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.Properties.Resources.resources
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.csproj.GenerateResource.cache
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.exe
+C:\Users\Jaroslav Kafka\ADHDMusicPlayer\ADHDMusicPlayer\ADHDMusicPlayer\obj\Debug\ADHDMusicPlayer.pdb
